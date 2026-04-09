@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Word Counter",
+  "version": "1.0",
+  "description": "Counts words, paragraphs and reading time of any webpage",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
